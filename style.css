@@ -1,0 +1,72 @@
+#title {
+
+}
+
+#color-palette {
+    height: 1;
+    width: 1;
+    display: inline-block;
+}
+
+#color1{
+    border: 1px solid rgb(0,0,0);
+    display: inline-block;
+    background-color: black!important;
+    width: 40px;
+    height: 40px;
+    
+}
+.verde {
+    background-color: green!important;
+}
+
+#color2{
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+.azul {
+    background-color: blue!important;
+}
+
+#color3{
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+}
+.vermelho {
+    background-color: red!important;
+}
+
+#color4{
+    border: 1px solid rgb(0, 0, 0);
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+} 
+.preto {
+    background-color: black!important;
+}
+
+#pixel-board {
+    
+    background-color: white;
+    width: 210px;
+    height: 210px;
+    
+    
+}
+
+.pixel {
+    width: 40px;
+    height: 40px;
+    border: 1px solid black;
+    background-color: white;
+    float: left;
+}
+
+#clear-board {
+    display: block;
+}
